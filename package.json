@@ -1,0 +1,19 @@
+{
+  "name": "plot-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.7",
+    "electron-packager": "^14.0.3"
+  },
+  "dependencies": {
+    "chart.js": "^2.8.0",
+    "node-notifier": "^5.4.0"
+  }
+}
